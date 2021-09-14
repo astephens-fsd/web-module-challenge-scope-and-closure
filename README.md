@@ -59,6 +59,8 @@ You will be running your tests in one terminal and debugging in the other. As yo
 Edit the `ReadMe` file with your answers to the questions below.
 
 1. In your own words, define closure (1-2 sentences).
+A closure allows you to store data in a seperate scope to be secured until needed at a later time.
+
 2. Study the following code, then answer the questions below.
 
 ```js
